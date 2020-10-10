@@ -1,5 +1,5 @@
-This is 30th screencast, called "30. React State Practice"<br />
+This is 29th screencast, called "29. React State Practice"<br />
 https://scrimba.com/course/glearnreact
 
-// Challenge:<br />
-// Given an incomplete class-based component without a constructor, add a constructor and initialize state to fix the broken component.
+<br />
+Challenge: Given an incomplete class-based component without a constructor, add a constructor and initialize state to fix the broken component.
